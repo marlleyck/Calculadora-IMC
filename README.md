@@ -2,7 +2,7 @@
 
 
  <p align="center">Calculadora de IMC feita com HTML5, CSS3 e JavaScript</p>
- <p align="center"><a href="#" target="_blank">Acesse aqui</a></p>
+ <p align="center"><a href="https://marlleyck.github.io/Calculadora-IMC/" target="_blank">Acesse aqui</a></p>
 
 <br>
 
